@@ -1687,34 +1687,35 @@ Netflixストリーミング・公衆Wi-FiでのFIFAゲームにバランス抜�
 地域・用途で選んで、自分でテストして違いを感じてみて！
 
 
+
 ### Step 3: ストリーミングに飛び込もう
-Netflix、Disney+、YouTube、Hulu…好きなアプリ開いて楽しんで！  
-プレミアムVPNなら速度低下ほとんどないけど、もし少し遅く感じたらサーバー切り替え（「Fastest」or近くのを選ぶ）か、24/7ライブチャットに聞くだけで即解決。
+Netflix、Disney+、YouTube、Hulu…好きなアプリを開いて楽しんでください！  
+プレミアムVPNなら速度低下はほとんど気になりませんが、もし少し遅く感じたらサーバー切り替え（「Fastest」または近くのサーバーを選ぶ）か、24/7ライブチャットに聞くだけで即解決します。
 
 > 「人生に制限はもう十分。エンタメまで制限する必要ないよね。」
 
-StrongVPNやExpressVPNで世界中のフルカタログを境界なしで。  
-今すぐ始めて、次のビンジ待ってるよ！
+StrongVPNやExpressVPNで世界中のフルカタログを境界なしで楽しめます。  
+今すぐ始めて、次のビンジが待っています！
 
 <a name="how-netflix-and-hulu-detect-and-block-vpns"></a>
 ## Netflix & HuluがVPNをどう検知・ブロックしてるか
 
-NetflixやHuluはライセンス契約で国ごとにコンテンツ制限してるから、  
-VPN検知をガチでやってる。2026年現在、どうやってるかと、なぜプレミアムVPNが勝つかを解説。
+NetflixやHuluはライセンス契約で国ごとにコンテンツ制限をかけているため、  
+VPN検知を本気でやっています。2026年現在、どうやって検知しているかと、なぜプレミアムVPNが勝つかを解説します。
 
 #### 1. IPアドレス検知
 公開データセンターのVPNサーバーIPを大量ブラックリスト化。  
-同じIPから大量接続来たら「プロキシエラー」or「地域外」表示。
+同じIPから大量接続が来たら「プロキシエラー」または「地域外」表示になります。
 
 #### 2. 行動パターン・IP分布分析
-同じIPから数百・数千接続、場所不一致（US IPなのに支払いが台湾）、異常トラフィック量で怪しいと判定。
+同じIPから数百・数千接続、場所不一致（US IPなのに支払いが台湾など）、異常トラフィック量で怪しいと判定。
 
 #### 3. ポート・プロトコル指紋
-OpenVPNのポート1194とか特定ポート、プロトコルシグネチャを検知。  
-ディープパケットインスペクションで443（HTTPS）でもVPNっぽさ見抜く。
+OpenVPNのポート1194など特定ポート、プロトコルシグネチャを検知。  
+ディープパケットインスペクションで443（HTTPS）でもVPNっぽさを検出。
 
 #### 4. DNS漏れ・WebRTCチェック
-設定ミスのVPNはDNSリクエストやWebRTCで本当のIP漏らす → 即バレ。
+設定ミスのVPNはDNSリクエストやWebRTCで本当のIPを漏らす → 即バレ。
 
 **なぜプレミアムVPNはまだ勝つのか**  
 **ExpressVPN**と**StrongVPN**はこれで対抗：
@@ -1725,6 +1726,40 @@ OpenVPNのポート1194とか特定ポート、プロトコルシグネチャを
 
 2026年の月次テストで、この2つはNetflix（US/UK/JPライブラリ）・Huluを最小努力で安定解除。  
 接続して再生するだけ！
+
+<a name="vpn-success-rate-for-netflix-and-disney-plus"></a>
+## Netflix & Disney+接続成功率（2026年1月テスト）
+
+### Netflix接続成功率（大陸別）
+<a name="netflix-connection-success-rates-by-continent"></a>
+
+このチャートはトップ4 VPN（ExpressVPN、FlowVPN、Surfshark、StrongVPN）のNetflixライブラリ接続成功率（%）を大陸別に示しています。各サブチャートは1プロバイダー、大陸がx軸、成功率がy軸です。
+
+主なポイント：
+- **アジア、欧州、オセアニア**：ほぼ完璧な信頼性 — US/UK/日本ライブラリに最適
+- **北米**：全プロバイダーで極めて高い
+- **アフリカ・南米**：現地インフラの影響で平均低めですが、近くサーバーで実用可能
+
+あなたの場所に合わせて選んでください。これらの率は過去7〜30日の毎日テスト平均です。
+
+<img src="./image/speed_test/vpn_connection_netflix.png" alt="Netflix接続成功率（大陸別）" width="1000"/>
+
+### Disney+接続成功率（大陸別）
+<a name="disney-plus-connection-success-rates-by-continent"></a>
+
+Disney+も同様の内訳。世界中のライブラリアクセス成功率です。
+
+目立つポイント：
+- **アジア、欧州、オセアニア**：優秀な安定性 — Marvel、Star Wars、地域限定コンテンツに最適
+- **北米**：トップクラスの性能
+- **アフリカ・南米**：インフラ影響で変動大ですが、US/UK/EUサーバーを試せばOK
+
+あなたのメイン地域とストリーミング優先度でVPNを選んでください。
+
+<img src="./image/speed_test/vpn_connection_disney.png" alt="Disney+接続成功率（大陸別）" width="1000"/>
+
+
+
 
 <a name="vpn-installation-tutorial-on-linux"></a>
 ## LinuxでのVPNインストールガイド
