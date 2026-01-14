@@ -46,8 +46,8 @@ description: "毎日鮮度を保つVPNランキング！Netflix全地域解放�
 
 最新の複数地域総合結果はこちらの画像をご覧ください！
 
-<!-- ここに元の画像を流用または新しく用意する場合 -->
-<!-- <img src="./image/speed_test/vpn_speed_test_combined.png" alt="最新VPN速度比較グラフ" width="1000"/> -->
+ここに元の画像を流用または新しく用意する場合
+<img src="./image/speed_test/vpn_speed_test_combined.png" alt="最新VPN速度比較グラフ" width="1000"/> -->
 
 | VPNサービス   | WireGuard系（最新プロトコル） | OpenVPN   |
 |---------------|-------------------------------|-----------|
