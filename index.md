@@ -19,14 +19,14 @@ description: "毎日鮮度を保つVPNランキング！Netflix全地域解放�
 
 | おすすめVPN | 最安プラン（期間）              | 月額換算（約） | 総額目安 | ぶっちゃけ一番の魅力               | 海外決済OK？ |
 |-------------|----------------------------------|------------------|----------|-------------------------------------|--------------|
-| [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title) | 1年契約                        | 約550〜620円   | 約6,500〜7,500円 | コスパ最強王者・安定感抜群         | ◯           |
+| [StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title) | 1年契約                        | 約550〜620円   | 約6,500〜7,500円 | コスパ最強王者・安定感抜群         | ◯           |
 | [FlowVPN（2日間無料お試し）](https://www.flowvpx.com/sign-up/?locale=en&special=FREETRIAL&r=35-890485.w_github) | 1年契約                        | 約580円        | 約7,000円 | 気軽に2日間タダで試せる安心感      | ◯           |
 | [ExpressVPN（12ヶ月＋数ヶ月無料特典）](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) | 12ヶ月＋ボーナス最大15〜16ヶ月 | 約750〜930円   | 約11,000円 | スピードも安定性もトップクラス     | △（広く使える） |
 | [Surfshark](https://surfy-chinaz.com/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | 2年契約                        | 約280〜320円   | 約7,400〜7,700円 | 同時接続無制限・家族みんなで使える | △（広く使える） |
 
 ### 「今一番賢い買い方」早見チャート
 
-- **1年だけでいい・でもコスパ重視** → **[StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)** が鉄板！  
+- **1年だけでいい・でもコスパ重視** → **[StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)** が鉄板！  
   新規メールで毎回割引更新できるから実質月550円前後（総額6,500〜7,500円くらい）
 
 - **とにかく安く長く使いたい** → **[Surfshark](https://surfy-chinaz.com/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312)** 一択！  
@@ -274,7 +274,7 @@ VPNは、あなたの本当のIPアドレス・現在地・個人データを隠
 
 これらが揃っているVPNだけが、厳しい環境でも「本当に使える」んです。
 <a name="strongvpn-recommendation"></a>
-### 1. [StrongVPN – コスパ最強の本命](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)
+### 1. [StrongVPN – コスパ最強の本命](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)
 
 <img src="./image/speed_test/strong_main.png" alt="StrongVPN 速度テスト結果" width="400"/>
 
@@ -513,7 +513,7 @@ Deloitteなどによる独立監査が複数回実施され、「本当にログ
 （FlowVPNも似た柔軟性があるので、併用おすすめ）
 
 ### Step 1: 限定割引リンクから入る
-この特別リンクで最安値適用：[StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title) → 「Start Now」をクリック（下のスクショ見てね）。  
+この特別リンクで最安値適用：[StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title) → 「Start Now」をクリック（下のスクショ見てね）。  
 <img src="./image/speed_test/strong_main.png" alt="StrongVPN ホームページ" width="1000"/>
 
 ### Step 2: サイト繋がらない・購入失敗時の回避策
@@ -1044,7 +1044,7 @@ Windows/Mac例ですが、Android/iOS/Linuxも公式ストア/サイトから似
 購入後、アカウントダッシュボードからダウンロード。
 
 #### Step 1: 公式サイトからダウンロード
-このリンクから：[StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)（またはダッシュボード） → 「StrongVPN Client」クリック（OS自動検知、Windows例）。  
+このリンクから：[StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)（またはダッシュボード） → 「StrongVPN Client」クリック（OS自動検知、Windows例）。  
 <img src="./image/strong/s6.PNG" alt="StrongVPN ダウンロードページ" width="1000"/>
 
 #### Step 2: アプリインストール
@@ -1616,7 +1616,7 @@ VPNはデバイスとサーバー間に安全な暗号化トンネル作って�
 今すぐ試して、ゲームを極めよう！
 
 - [ExpressVPNを今すぐ試す](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)
-- [StrongVPNを今すぐ試す](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)
+- [StrongVPNを今すぐ試す](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=Wallzhihu_en&data1=fanqiang&data2=title)
 
 ※このリンク経由で購入すると僕らに手数料入るけど、100%自分でテストして信頼してるものだけおすすめしてます。
 
