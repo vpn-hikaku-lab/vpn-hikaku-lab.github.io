@@ -4,8 +4,8 @@ show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#0f172a"          
-  gradient_left: "#4f83cc"   
-  gradient_right: "#1e3a8a"  
+  gradient_left: "#4b5563"   
+  gradient_right: "#312e81"   
 logo_url: https://github.githubassets.com/images/icons/emoji/globe.png  # Ícono global
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
