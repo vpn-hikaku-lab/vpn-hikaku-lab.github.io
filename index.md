@@ -27,6 +27,18 @@ VPN比較ラボは、GitHub Pages上で公開しているVPN比較ページで�
 
 **私たちの基準：** 最も速いVPNではなく、海外滞在中に自分の日本向けサービスを実機で確認し、問題が起きても短時間で次の手を打てるVPNを選びます。
 
+## 日本の動画が再生できない時の3段階診断
+
+「VPNが遅い」と決めつける前に、どこで止まっているかを分けて確認します。
+
+| 止まる場所 | よくある状態 | 最初に試すこと |
+|---|---|---|
+| VPN接続前 | サイトやアプリ自体を開けない | 公式アプリを事前に入れ、アカウントと支払い地域を確認 |
+| ログイン後 | 日本サーバーでも地域エラーが出る | 別の日本サーバーへ切り替え、アプリを完全終了して再起動 |
+| 再生開始後 | 低画質、停止、ライブだけ失敗 | 近いサーバー、別プロトコル、実際に使うテレビ・スマホで20分テスト |
+
+この診断を StrongVPN から始め、アプリやサポートの負担を減らしたい場合は ExpressVPN、家族の多数端末なら Surfshark、短期確認だけなら FlowVPN という順番で比較します。
+
 ## まず結論：目的別おすすめVPN
 
 | 目的 | おすすめ | 向いている人 |
@@ -708,7 +720,7 @@ UKサーバーに繋いでからStrongVPNリンクに戻ればOK。
 アクセストラブル時はStrongVPNやFlowVPNで先に繋いでから。  
 **プロTip**：いつもこのリンク経由で最新割引＆ボーナス適用！
 
-### Step 1: 限定オファーに飛ぶ
+### Step 1: ExpressVPNのオファーを確認
 ここクリック：[ExpressVPN Deal](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) → 「Get ExpressVPN」をタップ（スクショの目立つボタン）。  
 <img src="./image/exp/1-1.PNG" alt="ExpressVPN ホームページ" width="1000"/>
 
@@ -765,7 +777,7 @@ UKサーバーに繋いでからStrongVPNリンクに戻ればOK。
 <a name="surfshark-purchase-tutorial"></a>
 ## Surfshark – 同時接続無制限の家族向けプラン
 
-### Step 1: 限定オファーに飛ぶ
+### Step 1: Surfsharkの長期プランを確認
 割引ページはこちら：[Surfshark – 無制限接続](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) → 「Get Surfshark」をクリック（スクショのボタン見てね）。  
 <img src="./image/surfshark/1-1.png" alt="Surfshark ホームページ" width="1000"/>
 
