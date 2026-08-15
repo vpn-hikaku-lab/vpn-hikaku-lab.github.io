@@ -5,7 +5,7 @@ description: "海外から日本の動画を見る人向けに、TVer、ABEMA、
 ---
 
 # VPNおすすめ比較 2026 - 海外から日本の動画を見る・速度テスト・料金比較
-**最終更新：2026年8月8日 - VPN比較ラボ**
+**最終更新：2026年8月15日 - VPN比較ラボ**
 
 VPN比較ラボは、GitHub Pages上で公開しているVPN比較ページです。毎日の速度テスト画像、Netflix/Disney+接続チェック、料金表、購入ガイド、セットアップ手順をまとめています。
 
@@ -180,7 +180,7 @@ VPNは「ランキング1位」だけで選ぶより、実際に使う動画サ�
 結論として、1年以内の価格を重視するならStrongVPN、操作性とブランドの安心感を重視するならExpressVPN、家族・複数端末ならSurfshark、短期テストならFlowVPNという分け方が一番わかりやすいです。
 ## 価格と通貨について
 
-VPNの表示価格は、国、税金、為替、契約期間、キャンペーンで変わります。このページでは日本円の目安と米ドル等価を併記しますが、実際の請求額は必ず各VPNの決済画面で確認してください。目安レート：1米ドル ≈ 161円（2026年8月8日）。
+VPNの表示価格は、国、税金、為替、契約期間、キャンペーンで変わります。このページでは日本円の目安と米ドル等価を併記しますが、実際の請求額は必ず各VPNの決済画面で確認してください。目安レート：1米ドル ≈ 161円（2026年8月15日）。
 
 - StrongVPNの年額プロモーション目安：月4.99米ドル（約804円）、初年度53.99米ドル（約8,692円）、約804円/月・約8,692円/年。1年以内で買うならStrongVPNが最も分かりやすい低価格候補で、ExpressVPNの1年購入は明確に高くなります。
 - ExpressVPNはプレミアムで高め：長期で月3.49〜4.99米ドル前後（約562〜804円）、月払い12.99米ドル（約2,091円）、更新価格は高くなりやすいです。
@@ -239,20 +239,12 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 この下では、VPNの基礎知識、購入手順、インストール方法、速度テスト、Netflix/Disney+接続チェック、トラブル対策を詳しくまとめています。
 
 <!-- NEWS_START -->
-#### 2026年8月8日 VPN・プライバシー・サイバーセキュリティニュース
-- **年齢確認ルールで VPN のプライバシー需要が再注目**: TechRadar は、英国や豪州などの利用者が VPN を選ぶ際、監査、ノーログ方針、暗号化、対応デバイス、無料 VPN のリスクを確認すべきだと説明しています。[出典](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
-
-#### 2026年8月8日 インドの Telegram 制限で VPN 需要が急増
-- **Telegram 制限が 2026年最大級の VPN ダウンロード増を誘発**: Economic Times は、インドで Telegram が一時制限された後、多くのユーザーが VPN や代替メッセージアプリに流れたと報じました。[出典](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
-
-#### 2026年8月8日 複数デバイス向け VPN セール
-- **15台対応の生涯 VPN セールが話題に**: New York Post は FastestVPN PRO の期間限定セールを紹介しました。価格だけでなく、返金条件、プライバシー、速度、長期サポートも比較すべきです。[出典](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
-
-#### 今週のセキュリティ注意点
-- **巨大な認証情報流出がパスワード使い回しの危険を再確認**: TechRadar は、大量のユーザー名、パスワード、ログイン URL を含むデータ露出について報じています。[出典](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
-
-#### 今週のプライバシー注意点
-- **iOS の VPN 内部トンネル IP が追跡手段になる可能性**: TechRadar は、VPN の内部 IP がアプリ間追跡の手がかりになる可能性があるという研究を紹介しました。[出典](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
+#### 2026年8月15日 VPN・プライバシー・サイバーセキュリティニュース
+- **NCSC がゼロクリック型メール攻撃を警告**：未更新の Zimbra メール環境では、悪意あるメールを表示するだけで情報を盗まれる可能性があります。組織は直ちに更新し、監視を強化する必要があります。[公式情報](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
+- **Fortinet のファイアウォールと VPN ゲートウェイが攻撃対象に**：NCSC は不審なアカウントやログの確認、機器の更新、パスワード使い回しの停止、VPN と管理画面での MFA を推奨しています。[公式情報](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
+- **Mozilla が Firefox と Firefox ESR の重大な脆弱性を修正**：サイト分離、同一オリジンポリシー、サンドボックス脱出、メモリ安全性に関する問題が含まれるため、最新版への更新を確認してください。[公式情報](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
+- **Cloudflare と主要ブラウザがプライバシー重視の認証方式を開発**：PACT は侵襲的な追跡に頼らず、正規ユーザー、AI エージェント、悪意ある自動通信を区別することを目指します。[公式発表](https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/)
+- **Android 17 が詐欺・盗難・権限保護を強化**：Google は一時的な正確な位置情報共有、連絡先ピッカー、端末保護の強化を発表しました。VPN に加えて更新と MFA も重要です。[公式発表](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
 <!-- NEWS_END -->
 
 ## 內容導航
@@ -289,7 +281,7 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 ### 15. [ゲームに最適なVPN機能 – プレイをレベルアップ](#vpn-features-for-gaming)
 ### 16. [VPNで世界中の動画コンテンツを見るステップガイド](#guide-to-streaming-with-vpn)
 #### 17.1 [NetflixとHuluがVPNをどう検知・ブロックするか](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年8月8日）](#detailed-vpn-speed-test-report)
+### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年8月15日）](#detailed-vpn-speed-test-report)
 #### 18.1 [大陸別接続成功率](#vpn-connection-success-rates-by-continent)
 #### 18.2 [世界各地の速度テスト](#vpn-speed-tests-global-regions)
 #### 18.3 [Netflix大陸別接続成功率](#netflix-connection-success-rates-by-continent)
@@ -1690,7 +1682,7 @@ VPNはデバイスとサーバー間に安全な暗号化トンネル作って�
 ゲーム用途では速度だけでなく、Ping、切断頻度、利用規約との相性も確認してから使い続けるのが安心です。
 
 <a name="detailed-vpn-speed-test-report"></a>
-## 詳細VPN速度テストレポート（毎日更新 – 2026年8月8日）
+## 詳細VPN速度テストレポート（毎日更新 – 2026年8月15日）
 
 ### 地域別VPN速度テスト
 下のグラフはトップ4VPNのダウンロード（青棒）・アップロード（赤棒）を大陸別に実測したもの。  
