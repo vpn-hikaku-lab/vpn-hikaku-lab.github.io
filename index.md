@@ -237,6 +237,14 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 - **Android 17 が詐欺・盗難・権限保護を強化**：Google は一時的な正確な位置情報共有、連絡先ピッカー、端末保護の強化を発表しました。VPN に加えて更新と MFA も重要です。[公式発表](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
 <!-- NEWS_END -->
 
+## 日本向け実用ガイド
+
+総合比較だけでは原因を切り分けにくいため、日本の動画配信で最も多い失敗を専用ページにまとめました。
+
+- **海外から日本の動画を見る：** [TVer・ABEMAが海外で見られない時のVPN設定と確認手順](./tver-abema-vpn-overseas/)
+
+「日本サーバーに接続したのに再生できない」場合は、VPNを買い替える前に、IP・Cookie・アプリストア地域・アカウント地域を順番に確認してください。専用ページでもおすすめ順は StrongVPN、ExpressVPN、Surfshark、FlowVPN のままです。
+
 ## 內容導航
 
 ### 1. [自由上網の基本](#basics-of-unrestricted-access)
