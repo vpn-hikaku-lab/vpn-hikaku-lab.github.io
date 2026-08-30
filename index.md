@@ -5,7 +5,7 @@ description: "海外から日本の動画を見る人向けに、TVer、ABEMA、
 ---
 
 # VPNおすすめ比較 2026 - 海外から日本の動画を見る・速度テスト・料金比較
-**最終更新：2026年8月24日 - VPN比較ラボ**
+**最終更新：2026年8月30日 - VPN比較ラボ**
 
 VPN比較ラボは、GitHub Pages上で公開しているVPN比較ページです。毎日の速度テスト画像、Netflix/Disney+接続チェック、料金表、購入ガイド、セットアップ手順をまとめています。
 
@@ -241,7 +241,7 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 この下では、VPNの基礎知識、購入手順、インストール方法、速度テスト、Netflix/Disney+接続チェック、トラブル対策を詳しくまとめています。
 
 <!-- NEWS_START -->
-#### 2026年8月24日 VPN・プライバシー・サイバーセキュリティニュース
+#### 2026年8月30日 VPN・プライバシー・サイバーセキュリティニュース
 - **Firefox 154 で複数の重要な脆弱性を修正**：Mozilla はサンドボックス脱出、サイト分離、権限昇格、メモリ安全性の問題を修正しました。Firefox 154 以降へ更新済みか確認してください。[公式情報](https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/)
 - **欧州の VPN セキュリティ標準が承認手続きへ**：ETSI の EN 304 620 草案は、EU サイバーレジリエンス法に沿った VPN 製品の安全要件と評価基準を定めるものです。現時点では最終版ではありません。[公式進捗](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=74409)
 - **Mullvad が自動マルチホップと操作可能なサーバーマップをテスト**：Android 2026.9-beta1 では、設定に応じたマルチホップと検索機能が改善されました。一般提供前のベータ版です。[公式リリースノート](https://github.com/mullvad/mullvadvpn-app/releases/tag/android%2F2026.9-beta1)
@@ -291,7 +291,7 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 ### 15. [ゲームに最適なVPN機能 – プレイをレベルアップ](#vpn-features-for-gaming)
 ### 16. [VPNで世界中の動画コンテンツを見るステップガイド](#guide-to-streaming-with-vpn)
 #### 17.1 [NetflixとHuluがVPNをどう検知・ブロックするか](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年8月24日）](#detailed-vpn-speed-test-report)
+### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年8月30日）](#detailed-vpn-speed-test-report)
 #### 18.1 [大陸別接続成功率](#vpn-connection-success-rates-by-continent)
 #### 18.2 [世界各地の速度テスト](#vpn-speed-tests-global-regions)
 #### 18.3 [Netflix大陸別接続成功率](#netflix-connection-success-rates-by-continent)
@@ -1689,7 +1689,7 @@ VPNはデバイスとサーバー間に安全な暗号化トンネル作って�
 ゲーム用途では速度だけでなく、Ping、切断頻度、利用規約との相性も確認してから使い続けるのが安心です。
 
 <a name="detailed-vpn-speed-test-report"></a>
-## 詳細VPN速度テストレポート（毎日更新 – 2026年8月24日）
+## 詳細VPN速度テストレポート（毎日更新 – 2026年8月30日）
 
 ### 地域別VPN速度テスト
 下のグラフはトップ4VPNのダウンロード（青棒）・アップロード（赤棒）を大陸別に実測したもの。  
