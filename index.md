@@ -5,7 +5,7 @@ description: "海外から日本の動画を見る人向けに、TVer、ABEMA、
 ---
 
 # VPNおすすめ比較 2026 - 海外から日本の動画を見る・速度テスト・料金比較
-**最終更新：2026年9月1日 - VPN比較ラボ**
+**最終更新：2026年9月5日 - VPN比較ラボ**
 
 VPN比較ラボは、GitHub Pages上で公開しているVPN比較ページです。毎日の速度テスト画像、Netflix/Disney+接続チェック、料金表、購入ガイド、セットアップ手順をまとめています。
 
@@ -182,7 +182,7 @@ VPNは「ランキング1位」だけで選ぶより、実際に使う動画サ�
 結論として、1年以内の価格を重視するならStrongVPN、操作性とブランドの安心感を重視するならExpressVPN、家族・複数端末ならSurfshark、短期テストならFlowVPNという分け方が一番わかりやすいです。
 ## 価格と通貨について
 
-VPNの表示価格は、国、税金、為替、契約期間、キャンペーンで変わります。このページでは日本円の目安と米ドル等価を併記しますが、実際の請求額は必ず各VPNの決済画面で確認してください。目安レート：1米ドル ≈ 160円（2026年9月1日）。
+VPNの表示価格は、国、税金、為替、契約期間、キャンペーンで変わります。このページでは日本円の目安と米ドル等価を併記しますが、実際の請求額は必ず各VPNの決済画面で確認してください。目安レート：1米ドル ≈ 160円（2026年9月5日）。
 
 - StrongVPNの年額プロモーション目安：月4.50米ドル（約720円）、初年度54米ドル（約8,640円）。1年以内で買うならStrongVPNが最も分かりやすい低価格候補で、ExpressVPNの1年購入は明確に高くなります。
 - ExpressVPNはプレミアムで高め：1年約74.85米ドル（約11,980円）、長期オファー約97.72米ドル（約15,640円）、更新約99.95米ドル/年（約16,000円）、月払い12.99米ドル（約2,080円）が目安です。
@@ -241,7 +241,7 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 この下では、VPNの基礎知識、購入手順、インストール方法、速度テスト、Netflix/Disney+接続チェック、トラブル対策を詳しくまとめています。
 
 <!-- NEWS_START -->
-#### 2026年9月1日 VPN・プライバシー・サイバーセキュリティニュース
+#### 2026年9月5日 VPN・プライバシー・サイバーセキュリティニュース
 - **ExpressVPN が Amazon Vega OS 対応端末で利用可能に**：Fire TV Stick 4K Select を含む対応 Fire TV では、Amazon Appstore からアプリを入れ、リモコンで接続先を選択できます。[公式発表](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS では一部 DNS クエリが VPN トンネル外に出る場合あり**：ExpressVPN は OS 側の挙動であり VPN アプリ全般に影響すると説明しています。暗号化された通信は影響を受けませんが、利用者は制限を把握しておく必要があります。[公式サポート情報](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN が新しいクライアント側プロトコル基盤をベータ公開**：Proton Protocols は Windows、Android、iOS/iPadOS、Linux のベータ版で試せ、安定性・検閲耐性・クロスプラットフォーム開発の改善を目指します。[公式発表](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -291,7 +291,7 @@ VPNは広告上の速度だけでは判断できません。実際には、接�
 ### 15. [ゲームに最適なVPN機能 – プレイをレベルアップ](#vpn-features-for-gaming)
 ### 16. [VPNで世界中の動画コンテンツを見るステップガイド](#guide-to-streaming-with-vpn)
 #### 17.1 [NetflixとHuluがVPNをどう検知・ブロックするか](#how-netflix-and-hulu-detect-and-block-vpns)
-### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年9月1日）](#detailed-vpn-speed-test-report)
+### 17. [詳細VPN速度テストレポート（毎日更新 – 2026年9月5日）](#detailed-vpn-speed-test-report)
 #### 18.1 [大陸別接続成功率](#vpn-connection-success-rates-by-continent)
 #### 18.2 [世界各地の速度テスト](#vpn-speed-tests-global-regions)
 #### 18.3 [Netflix大陸別接続成功率](#netflix-connection-success-rates-by-continent)
@@ -1689,7 +1689,7 @@ VPNはデバイスとサーバー間に安全な暗号化トンネル作って�
 ゲーム用途では速度だけでなく、Ping、切断頻度、利用規約との相性も確認してから使い続けるのが安心です。
 
 <a name="detailed-vpn-speed-test-report"></a>
-## 詳細VPN速度テストレポート（毎日更新 – 2026年9月1日）
+## 詳細VPN速度テストレポート（毎日更新 – 2026年9月5日）
 
 ### 地域別VPN速度テスト
 下のグラフはトップ4VPNのダウンロード（青棒）・アップロード（赤棒）を大陸別に実測したもの。  
