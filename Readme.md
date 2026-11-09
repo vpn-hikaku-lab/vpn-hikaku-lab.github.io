@@ -62,6 +62,8 @@ VPNは日本の住所や決済手段を作るサービスではありません�
 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) | Starter公開価格は最初の28か月66.92米ドル＋税。リンク先のキャンペーンで変動 | 約10,710円＋税 | 長期前払いと無制限端末を実際に使う場合に強い |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | 3日トライアル、月6.99米ドル、年額プロモ約39.99米ドル | 月約1,120円、年約6,400円 | 短期テストや予備向け。試用後の条件を確認する |
 
+**StrongVPN決済情報（2026年11月9日更新）：** Alipayは利用できなくなりました。Alipayを利用する予定だった場合は、UnionPayのクレジットカード／デビットカードまたはPayPalを選び、最終的な決済方法はチェックアウト画面で確認してください。
+
 ## 継続測定している速度テスト
 
 速度はサーバー、距離、時間帯、プロトコル、自宅回線で変わります。下のグラフは4社の最近の相対差を見るための資料であり、日本の全回線で同じ数値が出る保証ではありません。
@@ -370,7 +372,7 @@ WireGuard、OpenVPN、IKEv2など複数の接続方式に対応しています�
 - 24時間365日専門サポート（ライブチャット＆メール）
 - 厳格ノーログポリシー → 追跡・データ保存ゼロ
 - ExpressVPNやSurfsharkより長期的にずっと安い
-- 国際決済対応（クレカ、PayPalなど）
+- UnionPayのクレジットカード／デビットカードまたはPayPalに対応（Alipayは利用不可）
 - 接続安定性が抜群に良い
 
 | 項目 / スペック                  | StrongVPN                              |
@@ -380,7 +382,7 @@ WireGuard、OpenVPN、IKEv2など複数の接続方式に対応しています�
 | サーバー数                       | 950+                                   |
 | 対応国数                         | 30+                                    |
 | 本社 / 管轄地域                  | アメリカ合衆国                         |
-| 支払い方法                       | クレジットカード, PayPal, 国際対応各種 |
+| 支払い方法                       | UnionPayクレジット／デビットカード、PayPal（Alipay利用不可） |
 | 本人確認 / ID提出必要？          | 不要                                   |
 | 暗号化プロトコル                 | WireGuard, OpenVPN, IKEv2, L2TP, SSTP  |
 | データ量 / 帯域制限              | 無制限                                 |
@@ -531,7 +533,7 @@ Deloitteなどによる独立監査が複数回実施され、「本当にログ
 <a name="strongvpn-international-payment-tutorial"></a>
 ## StrongVPN – 国際決済の確認手順
 
-StrongVPNの決済ページで利用可能なカード、PayPal、請求通貨、税、更新料金を確認します。日本発行カードが必ず承認される保証はありません。
+**決済情報（2026年11月9日更新）：** StrongVPNではAlipayが利用できなくなりました。Alipayを利用する予定だった場合は、UnionPayのクレジットカード／デビットカードまたはPayPalを選びます。日本発行カードを含むその他の方法は決済画面で確認してください。
 
 ### Step 1: 限定割引リンクから入る
 割引ページはこちら：[StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=title) → 「Start Now」をクリック（下のスクショ見てね）。  
@@ -546,9 +548,7 @@ StrongVPNの決済ページで利用可能なカード、PayPal、請求通貨�
 
 ### Step 3: 支払い方法を選ぶ
 支払いセクションまでスクロール。  
-国際対応バッチリ：Visa/MasterCardなどの海外クレカ・デビットカード、**PayPal**など。  
-ほとんどの外国カードがスムーズに通ります。  
-<img src="./image/strong/s4-1.PNG" alt="StrongVPN 支払い方法" width="1000"/>
+Alipayは利用できません。UnionPayのクレジットカード／デビットカードまたは**PayPal**を選び、送信前に決済画面の表示を確認します。
 
 ### StrongVPNをモバイル（Android & iOS）でセットアップする手順
 
