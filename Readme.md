@@ -23,7 +23,7 @@ StrongVPNが毎回最高速でなくても、目的の動画に十分な速度�
 
 TVerやABEMAが開かない時、原因はVPNの速度だけとは限りません。日本IP、アカウント地域、端末の位置情報、Cookie、アプリのキャッシュ、決済国のどこで止まったかを切り分ける必要があります。高いVPNを買えば自動的に解決するわけでも、日本サーバーが多ければ必ず再生できるわけでもありません。
 
-そのため、このページではStrongVPNを1位にしています。理由は「すべてで最強」だからではなく、公式ページに月額3.97米ドル、初年度請求47.69米ドルと明記された分かりやすい1年料金で、実際の日本向けサービスを試しやすいからです。自分の端末で合格すればそのまま使い、合わなければ返金期間中にExpressVPNへ移る。この順番なら、最初から高い料金を払う失敗を減らせます。
+そのため、このページではStrongVPNを1位にしています。理由は「すべてで最強」だからではなく、現在の年間プランが月額4.99米ドル表示、初年度請求53.99米ドル、更新89.99米ドル/年という分かりやすい1年料金で、実際の日本向けサービスを試しやすいからです。自分の端末で合格すればそのまま使い、合わなければ返金期間中にExpressVPNへ移る。この順番なら、最初から高い料金を払う失敗を減らせます。
 
 **順位の基準：** StrongVPNは1年の実用テスト、ExpressVPNは操作性とサポート、Surfsharkは家族・多数端末、FlowVPNは短期確認です。
 
@@ -34,7 +34,7 @@ TVerやABEMAが開かない時、原因はVPNの速度だけとは限りませ�
 | 1 | [StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=hero) | 1年料金を抑え、海外から日本の動画や公共Wi-Fiを自分で試したい人 | メインの配信サービスが返金期間中に安定しない、または決済総額が想定と違う |
 | 2 | [ExpressVPN](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) | 料金よりアプリの完成度、サポート、切り替えの簡単さを優先する人 | StrongVPNで同じ用途を満たせており、追加料金の理由がない |
 | 3 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) | 家族のスマホ、PC、テレビを多数同時に使う人 | 1〜2台しか使わない、または2年・長期前払いを避けたい |
-| 4 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | まず3日間で回線やWindowsアプリとの相性を見たい人 | テストする時間がない、または試用後の請求条件を確認できない |
+| 4 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | まず2日間で回線やWindowsアプリとの相性を見たい人 | テストする時間がない、または試用後の請求条件を確認できない |
 
 ## 日本の動画が止まる場所を先に特定する
 
@@ -61,14 +61,14 @@ VPNは日本の住所や決済手段を作るサービスではありません�
 
 ## 料金は「月額表示」ではなく支払総額で比較
 
-目安レートは1米ドル約160円です。税金、為替、キャンペーン、更新料金は変わります。下表は、当サイトで記録しているオファーと2026年11月14日に確認できた公開価格を区別しており、最終金額は必ず決済画面で確認してください。
+目安レートは1米ドル約160円です。税金、為替、キャンペーン、更新料金は変わります。下表は、当サイトで記録しているオファーと2026年11月17日に確認できた公開価格を区別しており、最終金額は必ず決済画面で確認してください。
 
 | VPN | 米ドルの目安 | 日本円の目安 | 判断 |
 |---|---:|---:|---|
-| [StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=price) | 公式表示は月額3.97米ドル、初年度請求47.69米ドル | 初年度約7,630円、月額約635円 | 1年だけなら最も分かりやすい低価格候補。ExpressVPNよりかなり安い |
-| [ExpressVPN](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) | Basic公開価格は最初の28か月97.72米ドル、以後99.95米ドル/年。12か月プランは決済画面で別途確認 | 約15,640円、更新約16,000円/年 | 高くてもアプリ品質とサポートを優先する人向け |
-| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) | Starter公開価格は最初の28か月66.92米ドル＋税。リンク先のキャンペーンで変動 | 約10,710円＋税 | 長期前払いと無制限端末を実際に使う場合に強い |
-| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | 3日トライアル、月6.99米ドル、年額プロモ約39.99米ドル | 月約1,120円、年約6,400円 | 短期テストや予備向け。試用後の条件を確認する |
+| [StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=price) | 月額4.99米ドル表示、初年度請求53.99米ドル、更新89.99米ドル/年 | 月額表示約800円、初年度約8,640円、更新約14,400円/年 | 1年だけなら分かりやすい低価格候補。ExpressVPNより安い |
+| [ExpressVPN](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) | Basic公開価格は月額2.99米ドル、最初の28か月83.72米ドル、以後99.95米ドル/年。税が加算される場合あり | 月額表示約480円、初回約13,400円、更新約16,000円/年 | 高くてもアプリ品質とサポートを優先する人向け |
+| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) | Starter公開価格は月額2.49米ドル、最初の27か月67.23米ドル。VAT・税が加算される場合あり | 月額表示約400円、初回約10,760円＋税 | 長期前払いと無制限端末を実際に使う場合に強い |
+| [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | Affiliateページは2日トライアル。公開プランは月6.99米ドル、初年度39.99米ドル、更新49.99米ドル/年 | 月約1,120円、初年度約6,400円、更新約8,000円/年 | 短期テストや予備向け。開始前に試用後の請求額を確認する |
 
 **StrongVPN決済情報（2026年11月9日更新）：** Alipayは利用できなくなりました。Alipayを利用する予定だった場合は、UnionPayのクレジットカード／デビットカードまたはPayPalを選び、最終的な決済方法はチェックアウト画面で確認してください。
 
@@ -91,7 +91,7 @@ VPNは日本の住所や決済手段を作るサービスではありません�
 |---|---|---|
 | TVer、ABEMA、U-NEXTなどの最重要サービスが複数サーバーで失敗する | ExpressVPN | 高い料金を払ってでも、アプリ操作やサポートの違いを試す意味がある |
 | 家族のスマホ、PC、Fire TVなどを大量に同時接続したい | Surfshark | 無制限接続を使い切れる家庭なら、1台あたりの負担が下がる |
-| 数日だけ回線との相性を確認したい | FlowVPN | 3日トライアルの目的と一致する |
+| 数日だけ回線との相性を確認したい | FlowVPN | 2日トライアルの目的と一致する |
 | 決済画面の総額、更新、返金条件がこのページと違う | いったん購入しない | 契約は比較表ではなく、決済直前の表示が優先される |
 
 ## 端末ごとに失敗の原因を分ける
@@ -143,14 +143,14 @@ VPNは日本の住所や決済手段を作るサービスではありません�
 #### 2.1 [StrongVPN – 1年料金を比較しやすい候補](#strongvpn-recommendation)
 #### 2.2 [ExpressVPN – 公式オファーと決済画面の価格](#expressvpn-12-months-+-3-months-free)
 #### 2.3 [Surfshark – 無制限デバイス同時接続](#surfshark-unlimited-connections)
-#### 2.4 [FlowVPN – 3日間短期トライアル](#flowvpn-2-day-free-trial)
+#### 2.4 [FlowVPN – 2日間短期トライアル](#flowvpn-2-day-free-trial)
 #### 2.5 [トップVPNのプライバシーポリシー比較](#privacy-policy-comparison-vpn-providers)
 ### 3. [StrongVPNの国際決済購入ステップ](#strongvpn-international-payment-tutorial)
 #### 3.1 [StrongVPNスマホ（Android＆iOS）設定ガイド](#tutorial-de-configuracion-de-strongvpn-en-androidios)
 ### 4. [ExpressVPN購入ガイド – 割引プランの確認](#expressvpn-purchase-tutorial)
 #### 4.1 [ExpressVPNインストールガイド – PC・スマホ・タブレット](#expressvpn-setup-tutorial)
 ### 5. [Surfsharkクイック購入ガイド（無制限デバイスプラン）](#surfshark-purchase-tutorial)
-### 6. [FlowVPN 3日間トライアル＆購入ガイド](#flowvpn-purchase-and-free-trial-tutorial)
+### 6. [FlowVPN 2日間トライアル＆購入ガイド](#flowvpn-purchase-and-free-trial-tutorial)
 ### 7. [おすすめしないVPNリスト（2026年更新）](#vpn-avoid-list)
 ### 8. [VPN選びの基準＆必須機能](#vpn-recommendation-standards-and-essential-features)
 ### 9. [誰でも知っておきたいVPNの基本知識](#essential-vpn-knowledge-you-need-to-know)
@@ -338,7 +338,7 @@ VPNは接続先から見えるIPアドレスを変え、端末とVPNサーバー
 
 <img src="./image/speed_test/strong_main.png?v=20260706-speed" alt="StrongVPN 速度テスト結果" width="400"/>
 
-**StrongVPN** を1位にしている理由は、公式ページに月額3.97米ドル、初年度請求47.69米ドルと表示された1年料金です。約160円/米ドルなら初年度約7,630円、月額約635円ですが、税、為替、更新料金は決済画面で確認してください。<br>
+**StrongVPN** を1位にしている理由は、現在の年間プランが月額4.99米ドル表示、初年度請求53.99米ドル、更新89.99米ドル/年という1年料金だからです。約160円/米ドルなら月額表示約800円、初年度約8,640円、更新約14,400円/年ですが、税、為替、最終料金は決済画面で確認してください。<br>
 
 デスクトップ、スマホ、テレビ、ルーター向けのアプリや設定情報があります。動画サービスの対応状況は変わるため、サービス名だけで購入せず、返金期間中に目的のアプリで再生まで確認します。
 
@@ -420,7 +420,7 @@ Windows、macOS、Android、iOS、Linuxはもちろん、ルーター、Apple TV
 - 複数通貨対応（BitcoinもOK）
 - 業界トップ暗号化（AES-256-GCM + 自社Lightwayプロトコル）
 
-**価格メモ**：2026年10月17日に確認できたBasic公開価格は、最初の28か月97.72米ドル（約15,640円）、以後99.95米ドル/年（約16,000円）です。12か月・月払い・地域別価格はリンク先で確認してください。<br>
+**価格メモ**：2026年11月17日に確認できたBasic公開価格は、月額2.99米ドル表示、最初の28か月83.72米ドル（約13,400円）、以後99.95米ドル/年（約16,000円）です。税、12か月・月払い・地域別価格はリンク先で確認してください。<br>
 クレカ、PayPal、Bitcoinなど対応。  
 
 **購入前の注意**：モバイルアプリの無料トライアル表示は、地域・アプリストア・時期によって異なります。チェックアウト画面で対象条件を確認し、返金保証を使う場合も期限と手続きを先に読んでください。
@@ -470,11 +470,11 @@ WireGuard、OpenVPN、キルスイッチなどの機能を提供し、現在の�
 家族や複数デバイスで使う人には比較しやすい候補です。長期総額を先に支払っても無制限接続を使い切れるかで判断してください。
 
 <a name="flowvpn-2-day-free-trial"></a>
-### 4. [FlowVPN – 3日間短期トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
+### 4. [FlowVPN – 2日間短期トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
 
 <img src="./image/speed_test/login.jpg" alt="FlowVPN ログイン画面" width="1000"/>
 
-**FlowVPN** の最大の魅力は**3日間の短期トライアル**です。  
+**FlowVPN** の最大の魅力は**2日間の短期トライアル**です。
 何もリスクなく全部試せてから決められるから、学生さんやライトユーザー、まずはお試ししたい人に超おすすめ。  
 実用的な予算重視VPNで、欧米プロバイダーと遜色ない速度・安定感を出してます（上の速度テスト画像見てね）。
 
@@ -482,7 +482,7 @@ WireGuard、OpenVPN、キルスイッチなどの機能を提供し、現在の�
 
 #### FlowVPNの主な強みまとめ
 
-- **3日間トライアル** → 自分の回線と見たいサービスで先にテストしやすい
+- **2日間トライアル** → 自分の回線と見たいサービスで先にテストしやすい
 - 長期プランが安くて学生・日常使いにピッタリ
 - 速度と安定性がしっかり（最新実測結果参照）
 - 国際決済＋多言語サポート
@@ -541,7 +541,7 @@ Deloitteなどによる独立監査が複数回実施され、「本当にログ
 
 ### Step 2: サイト繋がらない・購入失敗時の回避策
 ページが開かない場合は、URL、ブラウザ、DNS、現在接続中のVPNやセキュリティソフトを確認します。別のVPNを契約して購入画面へ入ることを前提にしないでください。  
-1年プランは公式ページで月額3.97米ドル（約635円）、初年度請求47.69米ドル（約7,630円）と表示されています。1年以内の有料VPNとしてはStrongVPNが低価格で分かりやすく、ExpressVPNの1年購入より明確に安いです。<br>
+1年プランは月額4.99米ドル表示（約800円）、初年度請求53.99米ドル（約8,640円）、更新89.99米ドル/年（約14,400円）です。1年以内の有料VPNとしてはStrongVPNが低価格で分かりやすく、ExpressVPNより明確に安いです。<br>
 更新時は価格が変わることがあるため、更新前に公式ページで条件を確認してください。
 
 <img src="./image/strong/s3-1.png" alt="StrongVPN 料金プラン" width="1000"/>
@@ -640,7 +640,7 @@ Alipayは利用できません。UnionPayのクレジットカード／デビッ
 <img src="./image/surfshark/1-1.png" alt="Surfshark ホームページ" width="1000"/>
 
 ### Step 2: 契約期間と総額を確認
-長期プランはキャンペーンで大きく割引されることがあります。Starterの目安は約53.73米ドル（約8,600円）+税、更新は約79米ドル/年（約12,640円）です。日本円の実額は時期・税金・為替で変わるため、決済画面の総額を確認してください。<br>
+長期プランはキャンペーンで大きく割引されることがあります。現在のStarter公開価格は月額2.49米ドル表示、最初の27か月67.23米ドル（約10,760円）+税です。更新価格、日本円の実額、税金、為替は変わるため、決済画面の総額を確認してください。<br>
 （更新時は価格やキャンペーン条件が変わることがあります）  
 <img src="./image/surfshark/2-1.PNG" alt="Surfshark 2年オファー" width="1000"/>
 
@@ -653,13 +653,13 @@ Alipayは利用できません。UnionPayのクレジットカード／デビッ
 購入後は必要な端末へ導入し、速度、切断時の保護、目的のアプリを確認します。
 
 <a name="flowvpn-purchase-and-free-trial-tutorial"></a>
-## FlowVPN – 3日間短期トライアル＆購入ガイド
+## FlowVPN – 2日間短期トライアル＆購入ガイド
 
 FlowVPNは「お試し重視」や予算抑えめの人にピッタリ！  
-**3日間トライアル**で、まず自分の回線・端末・見たいサービスとの相性を確認しやすいです。
+**2日間トライアル**で、まず自分の回線・端末・見たいサービスとの相性を確認しやすいです。
 
 ### Step 1: 無料トライアルスタート
-この特別リンクから：[FlowVPN – 3日間トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)  
+この特別リンクから：[FlowVPN – 2日間トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
 メールアドレスとパスワード入力（正しくね！）。  
 <img src="./image/flowvpn/3-1.PNG" alt="FlowVPN 登録画面" width="1000"/>
 
@@ -671,12 +671,12 @@ FlowVPNは「お試し重視」や予算抑えめの人にピッタリ！
 登録後、公式ダウンロードページへ：https://www.flowvpx.com/download/  
 デバイスに合ったアプリ（Windows/macOS/Android/iOS）を選んでインストール → トライアルのログイン情報で入って即接続！  
 気に入ったら、試用後の請求額と解約条件を確認して有料プランを判断します。  
-[FlowVPNの3日間トライアル条件を確認する](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)  
+[FlowVPNの2日間トライアル条件を確認する](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
 <img src="./image/flowvpn/3-1.PNG" alt="FlowVPN ダウンロードページ" width="1000"/>
 
 ### おまけ：FlowVPNの強みおさらい（お試しに最適な理由）
 
-- **3日間トライアル** → 自分の用途でフル機能を確認しやすい
+- **2日間トライアル** → 自分の用途で機能を確認しやすい
 - 価格を抑えて短期間の相性を確認したい学生・ライトユーザー向け
 - 速度・安定性しっかり（最新実測結果参照）
 - 国際決済＋多言語サポート
@@ -694,7 +694,7 @@ FlowVPNは「お試し重視」や予算抑えめの人にピッタリ！
 政治イベント・大規模規制強化・アップデート時期とか「敏感な時期」は、VPNが一時的にブロックされたり遅くなったりしやすいです。  
 でもこれでほぼ乗り切れます：
 
-- **短期確認・予備候補**：FlowVPNは対応プロトコルと3日トライアルの条件を確認してテスト
+- **短期確認・予備候補**：FlowVPNは対応プロトコルと2日トライアルの条件を確認してテスト
 - **StrongVPN & Surfshark**：サーバー刷新が早くて復旧速い
 - **ExpressVPN**：アプリ、サポート、対応端末を重視する場合のプレミアム候補
 - **プロTips**：
@@ -809,7 +809,7 @@ Deloitteによる独立監査が複数回（2026年最新で再確認）。
 - **ExpressVPN**：アプリとサポートを重視  
 - **Surfshark**：長期契約と無制限デバイス  
 - **StrongVPN**：1年料金を重視  
-- **FlowVPN**：3日間トライアルで短期テストしやすい  
+- **FlowVPN**：2日間トライアルで短期テストしやすい
 
 これらは2026年の厳しい実環境テストをクリアし続けてます。  
 時間とお金とプライバシーを無駄にしないで、賢く選ぼう！
@@ -993,8 +993,8 @@ VPNで起きやすいトラブルと、一般的な確認手順をまとめま�
 **解決策**：
 - 他のVPN/プロキシ全部オフ
 - 自宅/モバイルのクリーン回線（住宅IP）で試す
-- 新規メール（Gmail/Proton）で再挑戦
-- ダメならライブチャットに現在IP伝えてホワイトリスト依頼（即対応多い）
+- 繰り返し決済せず、エラー画面を保存する
+- ライブチャットに現在IPとエラー内容を伝え、公式の案内を受ける
 
 ### ExpressVPNがISPアップデートでブロックされた時
 ExpressVPNは最安定だけど、ISPの大規模更新で一時フラグ立つことあり。  
@@ -1019,15 +1019,13 @@ NoBorders/Camouflageが強いけど、切れる時はこれで：
 
 ### 更新時の価格確認 – ExpressVPNを続ける前に見ること
 更新時は新規キャンペーンと価格が異なる場合があります。継続前にアカウント内の更新価格と公式ページの最新オファーを比較してください。  
-**2026年でもまだ通用するプロハック**があります：
+継続する場合は、次の3点だけ確認します：
 
-1. 新規アカウント作成：新しいメールアドレスで（Gmailならyourname+2@gmail.comみたいにエイリアス、またはProtonMailで完全新規）
-2. この限定リンク経由：[ExpressVPN Deal](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) でまたプロモ適用
-3. 新規インストール後、古いアカウントから設定移行（ブックマーク・パスワード同期でOK）
-4. シークレットモード＋クッキー削除で申し込み（念のため）
+1. アカウント画面に表示される次回請求額と請求日
+2. [現在のExpressVPN公式ページ](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1)に表示される新規契約の総額と契約期間
+3. 解約期限、返金条件、税金の有無
 
-SurfsharkやStrongVPNも同じ：新規メールで毎回新ユーザー割引確認可能！  
-RedditやGoogleで「flash sale」検索するとさらに安いタイミング見つかるかも。
+新規契約価格が既存ユーザーにも適用できるとは限りません。不明な場合は、決済前に公式サポートへ更新オファーの対象条件を確認してください。
 
 ### VPN繋いだらローカルサイトが遅い・繋がらない時（ExpressVPN/StrongVPN共通）
 グローバルルーティングで遅延が増えるのは普通（特に銀行・ローカルストリーミング）。  
@@ -1124,7 +1122,7 @@ MacはIKEv2設定許可ポップアップ出るのでOK。
 <img src="./image/surfshark/7.png" alt="Surfshark 接続完了" width="1000"/>
 
 ### FlowVPN インストール手順
-3日間トライアルでテストしやすい。
+2日間トライアルでテストしやすい。
 
 #### Step 1: ダウンロード
 登録/トライアル後、公式サイトから（Windows例）。  
@@ -1168,7 +1166,7 @@ MacはIKEv2設定許可ポップアップ出るのでOK。
 - キルスイッチ＋自動接続は常にON
 - 速度・サーバーは定期テスト
 - トレントはP2P最適サーバー（Surfshark/StrongVPN）で
-- 更新時は新規メールで割引繰り返し
+- 更新前にアカウント内の更新価格と現在の公式条件を確認する
 
 これで全部揃いました！  
 VPNを契約したら、まず普段使う動画配信、メール、銀行アプリ、仕事用サービスで問題なく動くか確認しましょう。  
@@ -1369,7 +1367,7 @@ FlowVPNは**tvOS専用アプリ**（2026年現在TestFlightベータで提供）
 - iPhone/iPadと連携でリモコンみたいに操作
 
 **Apple TVセットアップ手順（tvOS 17+ベータ）**
-1. **アカウント作成/トライアル**：ここから3日間トライアル：[FlowVPN – 3日間トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
+1. **アカウント作成/トライアル**：ここから2日間トライアル：[FlowVPN – 2日間トライアル](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github)
 2. **TestFlightインストール**：iPhone/iPad/MacでApp Storeから[TestFlight](https://apps.apple.com/app/testflight/id899247664)
 3. **FlowVPNベータ参加**：iOS/Macで[FlowVPN Apple TV Beta](https://www.flowvpn.com/beta-tv)開いて招待コード入力
 4. **Apple TVにインストール**：Apple TVでTestFlight開いて（なければtvOS App StoreからDL）→ FlowVPNベータインストール
