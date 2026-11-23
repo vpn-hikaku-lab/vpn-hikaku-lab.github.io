@@ -33,7 +33,7 @@ VPNを使っても、作品の配信権、契約条件、アカウント地域�
 | 1 | [StrongVPN](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=hero) | 1年以内の費用を抑えて、日本動画と日常利用を試したい | 日本サーバー、Windows/スマホ、TVer・ABEMAの実再生 |
 | 2 | [ExpressVPN](https://www.expressvpn.com/jp/top/country/japan-vpn?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpXYnRgxWVX3Q0&irgwc=1&afsrc=1) | 料金よりアプリの操作性やサポートを重視 | 日本ロケーション、TV端末、更新価格 |
 | 3 | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=jp) | 家族や複数端末で同時に使いたい | 長期契約の総額、テレビアプリ、同時接続 |
-| 4 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | まず短期間だけ相性を確認したい | 3日試用の終了条件、日本サーバー、解約方法 |
+| 4 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=ja-jp&special=FREETRIAL&r=35-890485.w_github) | まず短期間だけ相性を確認したい | 正確な試用期間と終了時刻、日本サーバー、試用後の請求額、解約方法 |
 
 アフィリエイト開示：上記リンク経由で契約されると、当サイトが紹介料を受け取る場合があります。読者の追加負担はありません。だからこそ「必ず見られる」とは書かず、購入後に確認すべき条件を明記しています。
 
@@ -74,6 +74,8 @@ VPNを使っても、作品の配信権、契約条件、アカウント地域�
 動画視聴では最高速度より、夜間の安定性、再接続、エラー率が重要です。下の図は比較ラボが更新している傾向データであり、あなたの国、回線、端末で同じ結果を保証するものではありません。
 
 ![VPN比較ラボの毎日速度テスト](../image/speed_test/vpn_speed_test_combined.png)
+
+この図だけでは、海外から東京までの実際の経路差は分かりません。今後は米国西海岸→東京、米国東海岸→東京、欧州→東京を同じ端末・プロトコル・時間帯で測り、VPNなしの基準値、Ping、ダウンロード、アップロード、再接続、TVerまたはABEMAの20分再生を記録する必要があります。結果がそろうまでは都市別の性能を断定しません。
 
 [総合比較の速度・料金・接続チェックを見る](../#毎日更新のvpn速度テスト)
 
