@@ -780,6 +780,13 @@ VPNで起きやすいトラブルと、一般的な確認手順をまとめま�
 以下は購入後の基本手順です。画面と機能はOSやアプリ更新で変わるため、公式ダウンロードページと端末別ガイドを優先してください。
 
 ### StrongVPN インストール手順
+<!-- YOUTUBE_TUTORIAL_JA_STRONGVPN_START -->
+<div style="position:relative;width:100%;padding-top:56.25%;margin:1rem 0;">
+  <iframe src="https://www.youtube-nocookie.com/embed/4x0JKrOY6S0" title="StrongVPNをWindowsにインストールする方法" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+**動画：** [StrongVPNの設定ガイドをYouTubeで見る](https://youtu.be/4x0JKrOY6S0) ・ [動画で使用したStrongVPN公式オファーを確認する](https://strongvpn.com/jp/?tr_aid=60d96b5810e50&chan=w_github_jp&data1=jp-home&data2=title)
+<!-- YOUTUBE_TUTORIAL_JA_STRONGVPN_END -->
+
 購入後、アカウントダッシュボードからダウンロード。
 
 #### Step 1: 公式サイトからダウンロード
